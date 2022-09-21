@@ -1,2 +1,6 @@
 This Lecture Covers many basics to HTML structuring and CSS.
 Some examples include, Elements, Forms, CSS, Tables, Etc.
+All Example code is offered for free at https://cs50.harvard.edu/web/2020/
+
+Date Started: 9/21/22 Wednesday
+ToDo: Watch Week one Lecture on HTML and CSS

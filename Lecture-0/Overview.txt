@@ -1,0 +1,2 @@
+This Lecture Covers many basics to HTML structuring and CSS.
+Some examples include, Elements, Forms, CSS, Tables, Etc.
